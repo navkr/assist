@@ -1,0 +1,201 @@
+li {
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+background-color: ghostwhite; 
+}
+
+ul {
+	marging: 0px;
+	padding: 0px;
+	width:8%;
+}
+
+
+.ui-state-focus {
+	background-color: rgba(86, 215, 215, 0.49);
+}
+
+h3 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+.header {
+	background-color: rgba(178, 186, 187, 0.73);
+	padding: 1px;
+	margin-bottom: 30px;
+}
+
+.details {
+	float: left;
+	width:45%;
+}
+
+.select {
+	float: left;
+	width: 100%;
+}
+
+.info {
+	float: left;
+	width: 50%;
+	background-color: rgba(86, 215, 215, 0.49);
+	border-radius: 10px;
+}
+
+.service-details {
+	float: right;
+	width: 45%;
+	margin: 5px;
+	
+}
+
+.service-route {
+	float: left;
+	width: 50%;
+	background-color: rgba(86, 215, 215, 0.49);
+	border-radius: 10px;
+}
+
+.service-route-td {
+	background-color: ghostwhite;
+	text-align: center;
+}
+
+.node-name {
+	font-size: 85%;
+	line-height: 200%;
+	text-align: center;
+}
+
+.service-misc {
+	float: right;
+	width: 50%;
+	background-color: rgba(86, 215, 215, 0.49);
+	border-radius: 10px;
+}
+
+
+.service-frequency-value {
+	background-color: ghostwhite;
+}
+
+.select-label {
+	background-color: rgba(86, 215, 215, 0.49);
+  	padding: 0px 10px; 
+  	border-radius: 2px;
+}
+
+.enter-input {
+	width:25%;	
+}
+
+.select-dropdown {
+	border-radius: 3px;
+}
+
+.select-submit {
+	border-radius: 5px;
+}
+
+.description {
+	float: right;
+	width:50%;
+}
+
+.map {
+	float:left;
+	width: 100%;
+}
+
+.toggle {
+	float:left;
+	width: 100%;
+}
+
+.about {
+	float:left;
+	width: 100%;
+	height:70%;
+	background-color: ghostwhite;
+	border-radius:10px;
+}
+
+.about-image {
+	float:left;
+	width: 20%;
+	height:25%;
+	background-color: aliceblue;
+	border-radius:10px;
+}
+
+.about-title {
+	float:right;
+	width: 80%;
+	height:15%;
+	background-color: aqua;
+	border-top-right-radius: 10px;
+}
+
+
+.about-sections {
+	float: right;
+	width: 80%;
+	height:10%;
+	background-color: pink;
+	
+}
+
+.about-types {
+	float:left;
+	width: 20%;
+	height:75%;
+	background-color: blue;
+}
+
+.about-description {
+	float:right;
+	width: 80%;
+	height:75%;
+}
+
+.section-tabs {
+	padding-left: 0px;
+}
+
+.section-tab {
+	float:left;
+	width: 33.33%;
+	height:100%;
+	text-align: center;
+}
+
+.section-content {
+	height: 100%;
+	width: 100%;	
+}
+.about-type {
+	float:left;
+	width: 100%;
+	height:20%;
+	border-bottom-left-radius: 10px;
+}
+
+.info-table {
+	margin-bottom: 20px;
+	float: left;
+	width: 100%;
+	padding: 5px 5px 5px 0px;
+	background-color: ghostwhite;
+}
+
+.route-table {
+	float: left;
+	width: 100%;
+	padding: 5px 5px;
+	background-color: rgb(197, 183, 128);
+}
